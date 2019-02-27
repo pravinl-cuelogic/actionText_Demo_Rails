@@ -22,5 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-* Taking help from ```https://medium.com/@abhishek.kanojia/action-text-for-rails-6-92a9be7498bd```
